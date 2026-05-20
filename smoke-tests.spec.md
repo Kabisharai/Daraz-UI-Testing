@@ -18,3 +18,5 @@
 
 \- \[ ] TC-005: Verify error message on invalid credentials
 
+\- \[ ] TC-007: Verify cart icon updates on item add
+

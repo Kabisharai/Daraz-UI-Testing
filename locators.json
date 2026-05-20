@@ -1,7 +1,1 @@
-{
-  "daraz_login": {
-    "username_field": "#username",
-    "password_field": "#password",
-    "submit_button": ".login-btn"
-  }
-}
+{ "loginButton": "#login-btn", "emailField": "#email" }
