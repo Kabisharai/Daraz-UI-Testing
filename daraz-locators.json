@@ -1,4 +1,4 @@
 {
-  "loginButton": "#btn-login-header",
+  "loginButton": "#daraz-login-cta",
   "searchBar": "#search-input"
 }
