@@ -1,4 +1,4 @@
 {
-  "loginButton": "#login-btn",
+  "loginButton": "#btn-login-header",
   "searchBar": "#search-input"
 }
