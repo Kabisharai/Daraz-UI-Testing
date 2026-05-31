@@ -1,0 +1,8 @@
+{
+  "testSuite": "checkout",
+  "selectors": {
+    "addToCartButton": "#add-to-cart",
+    "cartIcon": ".cart-icon",
+    "checkoutButton": "#proceed-to-checkout"
+  }
+}
