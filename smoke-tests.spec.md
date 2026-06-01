@@ -21,3 +21,4 @@
 \- \[ ] TC-007: Verify cart icon updates on item add
 
 // Updated: login selector verified against Daraz staging env
+# Remote edit: verified by CI pipeline on GitHub
