@@ -35,6 +35,7 @@ Daraz processes thousands of transactions daily. The following flows were priori
 | Smoke Tests | 4 |
 | Regression Tests | 6 |
 | Exploratory / Notes | 2 |
+| Locator Files | 2 |
 | Test Result Format | Markdown (`.spec.md`), JavaScript spec stubs (`.spec.js`) |
 
 ---
