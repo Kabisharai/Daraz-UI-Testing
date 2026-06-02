@@ -67,7 +67,7 @@ Daraz-UI-Testing/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/Daraz-UI-Testing.git
+git clone https://github.com/Kabisharai/Daraz-UI-Testing.git
 
 # 2. Navigate into the project
 cd Daraz-UI-Testing
@@ -88,4 +88,4 @@ cat regression-test-plan.md
 Built by **Kabisha Rai** as part of a structured QA engineering preparation program.  
 Focused on developing production-ready testing habits before formal QA training.
 
-**GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**GitHub:** [github.com/Kabisharai](https://github.com/Kabisharai)
